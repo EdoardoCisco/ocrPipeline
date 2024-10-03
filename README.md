@@ -1,0 +1,1 @@
+On this repo there is the code used for fine tune an ocr pipeline, in particular keras-ocr pretrained, using tensorflow the goal is to reduce the dimension of the total pipeline to achieve a model able to fit in a stm32 
